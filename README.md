@@ -23,5 +23,5 @@
 ![Image](example2.png)
 ![Image](example3.png)
 
-9. Open excel recording spreadsheet (INSERT SPREADSHEET) to enter the results of each participant's coregistration
+9. Open excel recording spreadsheet to enter the results of each participant's coregistration
 10. To start a new participant, exit out of the window with the brain images, click "Check Reg" again, and repeat the same steps
