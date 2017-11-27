@@ -21,3 +21,7 @@ SPM12 should automatically open
 
 ### Examples
 
+![Image](example1.png)
+![Image](example2.png)
+![Image](example3.png)
+
