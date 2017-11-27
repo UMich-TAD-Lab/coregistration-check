@@ -13,10 +13,10 @@ SPM12 should automatically open
 1. Click the "Check Reg" button on the green window that pops up
 
 ![Image](checkreg.png)
-1. Click on the desired participant
-1. Click "anatomy" then "t1spgr_110sl" then "eht1spgr_110.nii,1"
-1. Click the ".." on the left side of the window to return until seeing "func", then click that. Next click "faces", then "run_01", then "rtrun_or.nii,1"
-1. Click "done"
+2. Click on the desired participant
+3. Click "anatomy" then "t1spgr_110sl" then "eht1spgr_110.nii,1"
+4. Click the ".." on the left side of the window to return until seeing "func", then click that. Next click "faces", then "run_01", then "rtrun_or.nii,1"
+5. Click "done"
 
 ## To check coregistration
 1. Click around the periphery of the top right brain image that pops up, watching to see if each click aligns with the periphery of the bottom right image.
