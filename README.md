@@ -13,6 +13,7 @@ SPM12 should automatically open
 1. Click the "Check Reg" button on the green window that pops up
 
 ![Image](checkreg.png)
+
 2. Click on the desired participant
 3. Click "anatomy" then "t1spgr_110sl" then "eht1spgr_110.nii,1"
 4. Click the ".." on the left side of the window to return until seeing "func", then click that. Next click "faces", then "run_01", then "rtrun_or.nii,1"
