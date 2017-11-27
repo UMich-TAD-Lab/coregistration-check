@@ -1,4 +1,6 @@
 # Checking Coregistration
+- Protocol Developed by Kristen Stauffer
+- Webpage Developed by Andie Bulbin
 
 ## To open SPM12
 1. Open matlab on computer with the brain images
