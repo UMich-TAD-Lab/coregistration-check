@@ -7,9 +7,6 @@
 - $ addpath(genpath(‘PATH TO SPM12’))
 - $ cd /PATH FOR IMAGING DATA DIRECTORY
 - $ spm fmri
-
-SPM12 should automatically open
-
 3. Click the "Check Reg" button on the green window that pops up
 
 ![Image](checkreg.png)
