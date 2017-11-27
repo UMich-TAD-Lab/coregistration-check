@@ -3,8 +3,8 @@
 - Webpage Developed by Andie Bulbin
 
 ## To open SPM12
-1. Open matlab on computer with the brain images
-1. Enter into matlab command window
+1. Open MATLAB on computer with the brain images
+1. Enter into MATLAB command window
 - $ addpath(genpath(‘PATH TO SPM12’))
 - $ cd /PATH FOR IMAGING DATA DIRECTORY
 - $ spm fmri
