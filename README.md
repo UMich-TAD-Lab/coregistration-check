@@ -25,5 +25,5 @@ SPM12 should automatically open
 ![Image](example2.png)
 ![Image](example3.png)
 
-1. Open excel recording spreadsheet to enter the results of each participant's coregistration
-1. To start a new participant, exit out of the window with the brain images, click "Check Reg" again, and repeat the same steps
+2. Open excel recording spreadsheet to enter the results of each participant's coregistration
+3. To start a new participant, exit out of the window with the brain images, click "Check Reg" again, and repeat the same steps
