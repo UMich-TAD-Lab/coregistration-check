@@ -1,5 +1,5 @@
 # Checking Coregistration
-- Protocol Developed by Kristen Stauffer
+- Protocol Developed by Tyler Hein
 - Webpage Developed by Andie Bulbin
 
 ## To open SPM12
