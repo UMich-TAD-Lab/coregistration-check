@@ -20,7 +20,9 @@
 ### Examples
 
 ![Image](example1.png)
+
 ![Image](example2.png)
+
 ![Image](example3.png)
 
 9. Open excel recording spreadsheet to enter the results of each participant's coregistration
